@@ -63,7 +63,7 @@ Example Monitor Output:
 ---
 
 ## 🛠 Tools Used
-- Verilog Simulator (EDA Playground)
+- Verilog Simulator (EDA Playground/Xilinx Vivado)
 
 ---
 
