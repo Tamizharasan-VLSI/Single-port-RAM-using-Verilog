@@ -36,6 +36,9 @@ module tb;
       addr=i;
       #10;
     end
+    // for (i = 0; i < depth; i = i + 1) begin
+    //   $display("RAM[%0d] = %0d", i, dut.ram[i]);          //uncommand to view data inside RAM
+// end
     #20;$finish;
   end
   
@@ -44,4 +47,5 @@ module tb;
     $dumpfile("dump.vcd");
     $dumpvars(0);
   end
+
 endmodule
