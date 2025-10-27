@@ -56,15 +56,14 @@ Example Monitor Output:
 ## 📁 Repository Contents
 | File | Description |
 |------|-------------|
-| `single_port_ram.sv` | RTL Verilog Code |
-| `tb_single_port_ram.sv` | Testbench Code |
+| `single_port_ram.v` | RTL Verilog Code |
+| `tb_single_port_ram.v` | Testbench Code |
 | `dump.vcd` | Optional waveform dump file |
 
 ---
 
 ## 🛠 Tools Used
-- Verilog Simulator (EDA Playground / ModelSim / Vivado xsim)
-- GTKWave for waveform display
+- Verilog Simulator (EDA Playground)
 
 ---
 
@@ -76,7 +75,7 @@ Example Monitor Output:
 ---
 
 ## 👩‍💻 Author
-**Sindhiya**  
+**Tamizharasan**  
 VLSI Enthusiast | Digital Design Learner  
 More designs coming soon… 😊
 
