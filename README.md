@@ -55,9 +55,11 @@ Steps performed during simulation:
 ## 📁 Repository Contents
 | File | Description |
 |------|-------------|
-| `single_port_ram.v` | RTL Verilog Code |
-| `tb_single_port_ram.v` | Testbench Code |
-| `dump.vcd` | Optional waveform dump file |
+| `Source code.v` | RTL Verilog Code |
+| `TB.v` | Testbench Code |
+| `Output.v` | simulation output |
+| `waveform` | waveform png |
+| `Schematic.png` | schematic view |
 
 ---
 
