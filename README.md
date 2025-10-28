@@ -48,7 +48,6 @@ Steps performed during simulation:
 3. Switch to Read mode
 4. Read back and verify stored data
 
-Example Monitor Output:
 
 
 ---
